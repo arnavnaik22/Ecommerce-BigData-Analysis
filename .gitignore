@@ -1,0 +1,13 @@
+
+*.csv
+*.parquet
+
+
+*.log
+complete_output.log
+
+
+__pycache__/
+.DS_Store
+.vscode/
+
